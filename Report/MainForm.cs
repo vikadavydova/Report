@@ -229,20 +229,7 @@ namespace Report
                             }
                     }
                 }
-#region probably useful        
-                /*wordrange = worddoc.Bookmarks["date"].Range;
-                wordrange.Text = dateTimePicker1.Value.ToShortDateString();
 
-                if (textBoxLang.Text.Equals("")) textBoxLang.Text = "c#";
-                wordrange = worddoc.Bookmarks["lang"].Range;
-                wordrange.Text = textBoxLang.Text;
-
-                if (textBoxFIO.Text.Equals("")) textBoxFIO.Text = "Преподаватель";
-                wordrange = worddoc.Bookmarks["fio"].Range;
-                wordrange.Text = textBoxFIO.Text;
-                wordrange.Italic = 1; // !!! не логические, а целые, при значении > 0 свойство "включено"
-                wordapp.Visible = true;*/
-#endregion
 
             }
             catch (Exception ex)
@@ -459,8 +446,6 @@ namespace Report
             range.Borders.LineStyle = Excel.XlLineStyle.xlContinuous;
             range.EntireColumn.AutoFit();
             range.EntireRow.AutoFit();
-            //range.WrapText = true;
-            //range.ShrinkToFit = true;
 
             range = sheet.Cells[1, 2];
             range.Value = "Значение";
@@ -475,14 +460,12 @@ namespace Report
             range.Borders.LineStyle = Excel.XlLineStyle.xlContinuous;
             range.EntireColumn.AutoFit();
             range.EntireRow.AutoFit();
-            //range.WrapText = true;
 
             range = sheet.Cells[3, 1];
             range.Value = "Коэффициент 2";
             range.Borders.LineStyle = Excel.XlLineStyle.xlContinuous;
             range.EntireColumn.AutoFit();
             range.EntireRow.AutoFit();
-            //range.WrapText = true;
         }
     }
 }
