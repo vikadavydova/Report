@@ -1,0 +1,18 @@
+C:\Study Hard\Тулупьевы\С#\Report\Report\bin\Debug\Report.exe.config
+C:\Study Hard\Тулупьевы\С#\Report\Report\bin\Debug\Report.exe
+C:\Study Hard\Тулупьевы\С#\Report\Report\bin\Debug\Report.pdb
+C:\Study Hard\Тулупьевы\С#\Report\Report\obj\Debug\Report.csprojResolveAssemblyReference.cache
+C:\Study Hard\Тулупьевы\С#\Report\Report\obj\Debug\Report.MainForm.resources
+C:\Study Hard\Тулупьевы\С#\Report\Report\obj\Debug\Report.Properties.Resources.resources
+C:\Study Hard\Тулупьевы\С#\Report\Report\obj\Debug\Report.csproj.GenerateResource.Cache
+C:\Study Hard\Тулупьевы\С#\Report\Report\obj\Debug\Report.exe
+C:\Study Hard\Тулупьевы\С#\Report\Report\obj\Debug\Report.pdb
+C:\Study Hard\Тулупьевы\С#\Report\Report\obj\Debug\Report.csproj.ResolveComReference.cache
+D:\Programming\C#\Report\Report\Report\obj\Debug\Report.csprojAssemblyReference.cache
+D:\Programming\C#\Report\Report\Report\obj\Debug\Report.csproj.ResolveComReference.cache
+D:\Programming\C#\Report\Report\Report\obj\Debug\Report.MainForm.resources
+D:\Programming\C#\Report\Report\Report\obj\Debug\Report.Properties.Resources.resources
+D:\Programming\C#\Report\Report\Report\obj\Debug\Report.csproj.GenerateResource.cache
+D:\Programming\C#\Report\Report\Report\obj\Debug\Report.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Report\Report\Report\obj\Debug\Report.exe
+D:\Programming\C#\Report\Report\Report\obj\Debug\Report.pdb
