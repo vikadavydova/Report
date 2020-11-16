@@ -80,22 +80,7 @@ namespace Report
                     default: { MessageBox.Show("Как вы вообще здесь оказались?!"); break; }
                 }
             }
-            /*Object selectedItem = cbxAnalysis.SelectedItem;
-            switch(selectedItem.ToString())
-            {
-                case "Описательные статистики": Type = TypeOfAnalysis.Statistics; break;
-                case "T-тест": Type = TypeOfAnalysis.Ttest; break;
-                case "Тест Манна-Уитни": Type = TypeOfAnalysis.MannWitney; break;
-                case "Хи-Квадрат": Type = TypeOfAnalysis.Hi; break;
-                case "ANOVA": Type = TypeOfAnalysis.ANOVA; break;
-                case "Корреляционный анализ": Type = TypeOfAnalysis.CorAnalysis; break;
-                case "Корреляционная плеяда": Type = TypeOfAnalysis.CorPleiade; break;
-                case "Регрессионный анализ": Type = TypeOfAnalysis.RegAnalysis; break;
-                case "Кластеризация": Type = TypeOfAnalysis.Clustering; break;
-            }*/
-
-            //Object begin = 0;
-            //Object end = 0;
+ 
 
             try
             {
